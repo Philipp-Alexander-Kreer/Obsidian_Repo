@@ -3,6 +3,7 @@
 - Time & Location strong cues
 - Context acts as cue
 - Environment
+- Social norms
 
 $\Rightarrow$ All change starts with awareness
 
@@ -16,6 +17,10 @@ Create new cues:
 - Set new context, place or environment.
 - Remove unwanted cues
 - [[The Power of Friction]]
+- Change/join group where desired habit is the norm rather than the exception.
+- Find a person who sticks with his habit and copy it.
+- Ignore the group.
+- Introduce ritual
 
 
 **Self control is a short-term strategy, not a long-term one!** 

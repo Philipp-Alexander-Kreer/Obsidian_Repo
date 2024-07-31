@@ -8,3 +8,5 @@ Field report $\to$ [[Habit Tracking]]
 Make good [[Cue]]: What could be good cues?
 
 [[Success]]
+
+What is my [[Craving]]?

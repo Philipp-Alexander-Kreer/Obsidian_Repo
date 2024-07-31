@@ -49,31 +49,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benchmarks for Models.md",
+                "file": "Deep Forgetting.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b92b6ab749690eab",
+            "id": "ece620bcb285f8aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grokking.md",
+                "file": "Gametheory of AI Alignment.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "71ffdac6bcac27c9",
+            "id": "8e5b199eb00fdea5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning from Human Feedback.md",
+                "file": "Craving.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,6 +89,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "bbb85375a1a6f63a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -121,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Car",
+                "query": "Forge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grokking.md",
+                "file": "Gametheory of AI Alignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grokking.md",
+                "file": "Gametheory of AI Alignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grokking.md"
+                "file": "Gametheory of AI Alignment.md"
               }
             }
           }
@@ -219,21 +228,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b92b6ab749690eab",
+  "active": "ece620bcb285f8aa",
   "lastOpenFiles": [
-    "Reinforcement Learning from Human Feedback.md",
-    "Stages of Habit Forming.md",
-    "Habit Forming.md",
     "Deep Forgetting.md",
+    "Gametheory of AI Alignment.md",
+    "Benchmarks for Models.md",
+    "Dating.md",
+    "Craving.md",
+    "Reinforcement Learning from Human Feedback.md",
+    "Habit Forming.md",
     "Cue.md",
+    "Difficulties in Habit Forming.md",
+    "Grokking.md",
+    "Stages of Habit Forming.md",
     "Habit Stacking.md",
     "Success.md",
-    "Dating.md",
     "The Power of Friction.md",
     "Scorecard.md",
     "Risks of Habits.md",
-    "Grokking.md",
-    "Benchmarks for Models.md",
     "White Box Access.md",
     "AI Alignment Careers.md",
     "Presentation Skills Check List.md",
@@ -244,9 +256,6 @@
     "Geometric Algebra Transformer (GAT).md",
     "Reasons_to_not_approach_a_woman.md",
     "Meta-Rationality.md",
-    "The Path of Rationality.md",
-    "Motivation Reward.md",
-    "Difficulties in Habit Forming.md",
     "Untitled.canvas"
   ]
 }

@@ -6,5 +6,7 @@
 4. Prioritize motion (read, learn, plan, etc.) over action (you execute). [[Reasons_to_not_approach_a_woman]]
 5. Good habits usually have delayed benefits/rewards $\Rightarrow$ [[Motivation Reward]]
 6. Bad habits usually have direct reward (but bad long-term effect) $\Rightarrow$ [[The Power of Friction]]
+7. Difficult to step out of the mass; there is a natural pull towards conformity
+8. [[Cue]]
 
 

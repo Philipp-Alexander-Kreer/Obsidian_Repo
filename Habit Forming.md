@@ -9,7 +9,7 @@ Habits are the base for [[Success]]
 
 ### Problem Phase
 1. [[Cue]] ≈ Trigger
-2. Craving ≈ I want something
+2. [[Craving]] ≈ I want something
 ### Solution Phase
 3. Response
 4. [[Motivation Reward]]
@@ -34,4 +34,3 @@ Each time I do something I cast vote for my identity (good or bad!)
 Example sentences:
 - Each time I talk to a stranger I am an open person.
 - Each time I talk to a woman I am a confident seducer.
-
