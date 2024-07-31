@@ -85,14 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dating.md",
+                "file": "Stages of Habit Forming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dating.md",
+                "file": "Grokking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dating.md",
+                "file": "Grokking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dating.md"
+                "file": "Grokking.md"
               }
             }
           }
@@ -219,18 +219,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33515800f9236cb5",
+  "active": "b92b6ab749690eab",
   "lastOpenFiles": [
-    "Success.md",
+    "Reinforcement Learning from Human Feedback.md",
+    "Stages of Habit Forming.md",
     "Habit Forming.md",
+    "Deep Forgetting.md",
     "Cue.md",
-    "The Power of Friction.md",
     "Habit Stacking.md",
+    "Success.md",
     "Dating.md",
+    "The Power of Friction.md",
     "Scorecard.md",
     "Risks of Habits.md",
-    "Deep Forgetting.md",
-    "Reinforcement Learning from Human Feedback.md",
     "Grokking.md",
     "Benchmarks for Models.md",
     "White Box Access.md",
@@ -246,7 +247,6 @@
     "The Path of Rationality.md",
     "Motivation Reward.md",
     "Difficulties in Habit Forming.md",
-    "Opener Questions.md",
     "Untitled.canvas"
   ]
 }

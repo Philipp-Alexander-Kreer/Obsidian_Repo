@@ -21,6 +21,7 @@ Habits are the base for [[Success]]
 4. Make it satisfying.
 
 - [[Layers of Change]]
+- [[Stages of Habit Forming]]
 - [[Difficulties in Habit Forming]]
 - [[Habit Forming Algorithm]]
 - [[Git Gud (really good)]]
