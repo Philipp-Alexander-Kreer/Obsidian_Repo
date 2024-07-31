@@ -1,0 +1,3 @@
+- What are you procrastinating on? 
+- What was your best/most live changing one time investment?
+- 

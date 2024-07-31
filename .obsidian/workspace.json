@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "1da91a34df7d6ba3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fbfc30a2b2fa044",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "757ce3d2edf0e358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scattering Amplitude Regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfc91672f369fb29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Alignment Careers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd34075a46121724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "White Box Access.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b636972b50f205ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Benchmarks for Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b92b6ab749690eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grokking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71ffdac6bcac27c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement Learning from Human Feedback.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33515800f9236cb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Forgetting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07c43e0c054a1c7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "917fd2ba4487939b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ac36e21c2bbf069",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aee026e63d4562b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Car",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c42ae4fab670456c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "921eaac284c2f838",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8386aadd4499c27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df05625a6a94e96f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Deep Forgetting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce2c987a54d0e943",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Deep Forgetting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fafd1cfbd5b4a49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d1bbee9cf129207",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Deep Forgetting.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2ac36e21c2bbf069",
+  "lastOpenFiles": [
+    "Deep Forgetting.md",
+    "Reinforcement Learning from Human Feedback.md",
+    "Grokking.md",
+    "Benchmarks for Models.md",
+    "White Box Access.md",
+    "AI Alignment Careers.md",
+    "Presentation Skills Check List.md",
+    "People and Institutions.md",
+    "Scattering Amplitude Regression.md",
+    "Reward Specification in AI models.md",
+    "Career.md",
+    "Geometric Algebra Transformer (GAT).md",
+    "Reasons_to_not_approach_a_woman.md",
+    "Meta-Rationality.md",
+    "The Path of Rationality.md",
+    "Habit Forming.md",
+    "Motivation Reward.md",
+    "Dating.md",
+    "Difficulties in Habit Forming.md",
+    "The Power of Friction.md",
+    "Opener Questions.md",
+    "Habit Tracking.md",
+    "Git Gud (really good).md",
+    "Habit Forming Algorithm.md",
+    "Risks of Habits.md",
+    "Layers of Change.md",
+    "Untitled.canvas"
+  ]
+}
