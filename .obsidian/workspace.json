@@ -4,103 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7fbfc30a2b2fa044",
+        "id": "0c9e96374b175280",
         "type": "tabs",
         "children": [
           {
-            "id": "757ce3d2edf0e358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scattering Amplitude Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfc91672f369fb29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Alignment Careers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd34075a46121724",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "White Box Access.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b636972b50f205ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep Forgetting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ece620bcb285f8aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gametheory of AI Alignment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e5b199eb00fdea5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Craving.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33515800f9236cb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stages of Habit Forming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbb85375a1a6f63a",
+            "id": "5b40e51b3041924c",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Forge",
+                "query": "AI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gametheory of AI Alignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gametheory of AI Alignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gametheory of AI Alignment.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -228,34 +138,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ece620bcb285f8aa",
+  "active": "5b40e51b3041924c",
   "lastOpenFiles": [
+    "Geometric Enhancements of AI Models.md",
+    "Methods to Remove Knowledge from AI Model.md",
+    "What to scope out?.md",
+    "White Box Access.md",
+    "AI Alignment Careers.md",
+    "Scattering Amplitude Regression.md",
+    "Reward Specification in AI models.md",
+    "AI Alignment.md",
+    "Latent Adversarial Training.md",
+    "Graph Classification Tasks.md",
+    "Craving.md",
+    "Equivariant Function.md",
+    "Equivariant Networks.md",
+    "Stages of Habit Forming.md",
+    "Design new Molecules.md",
+    "Latent Variable Models.md",
+    "Evidence Lower Bound ELBO.md",
+    "Diffusion Model.md",
+    "Denoising Score.md",
     "Deep Forgetting.md",
     "Gametheory of AI Alignment.md",
     "Benchmarks for Models.md",
     "Dating.md",
-    "Craving.md",
     "Reinforcement Learning from Human Feedback.md",
     "Habit Forming.md",
     "Cue.md",
-    "Difficulties in Habit Forming.md",
-    "Grokking.md",
-    "Stages of Habit Forming.md",
-    "Habit Stacking.md",
-    "Success.md",
-    "The Power of Friction.md",
-    "Scorecard.md",
-    "Risks of Habits.md",
-    "White Box Access.md",
-    "AI Alignment Careers.md",
-    "Presentation Skills Check List.md",
-    "People and Institutions.md",
-    "Scattering Amplitude Regression.md",
-    "Reward Specification in AI models.md",
-    "Career.md",
-    "Geometric Algebra Transformer (GAT).md",
-    "Reasons_to_not_approach_a_woman.md",
-    "Meta-Rationality.md",
     "Untitled.canvas"
   ]
 }
