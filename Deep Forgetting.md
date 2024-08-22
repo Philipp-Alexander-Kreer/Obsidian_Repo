@@ -8,12 +8,8 @@ Fine-tuning can rapidly undo safety training.
 
 ---
 
-## Various methods to make model forget (or not even learn)
-
-- **Clean data:** Prevent the model from learning undesired behavior in the first place.
-- **Compress model:** Is that really useful?
-- **Meta learning:** Not only train to perform good on a specific task but also perform bad on others.
-- **Interpret model and change its behavior:** (e.g., mechanism interpretation)
+[[Methods to Remove Knowledge from AI Model]]
+[[What to scope out?]]
 
 
 Interesting for [[Gametheory of AI Alignment]]

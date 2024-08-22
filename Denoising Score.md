@@ -1,0 +1,2 @@
+
+I can make a continuous version of the noising procedure of [[Diffusion Model]], which results in a differential equation. If the denoising score is known, I can solve the differential equation analytically. 
